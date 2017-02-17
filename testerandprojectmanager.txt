@@ -1,0 +1,5 @@
+Sir,
+	The main focus work is over the testing, project managment, designing and the flow of the interface.
+	‘javaapplication1’ contains all the modules that are being integrated by me. Which were developed by the 
+  respective group members (modules were: mainmenu.java and register.java).
+	Test cases are being performed by myself and commit change regarding the failure of the test case.  
