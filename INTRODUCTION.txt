@@ -1,0 +1,30 @@
+                                  GRAPHICAL PASSWORD TO AVOID SHOULDER SURFING
+
+Since conventional password schemes are vulnerable to shoulder surfing, many shoulder surfing resistant graphical
+password schemes have been proposed. However, as most users are more familiar with textual passwords than pure graphical
+passwords, text-based graphical password schemes have been proposed. Unfortunately, none of existing text-based shoulder
+surfing resistant graphical password schemes is both secure and efficient enough. In this paper, we propose an improved 
+text-based shoulder surfing resistant graphical password scheme by using colours.
+In the proposed scheme, the user can easily and efficiently login system. Next, we analyse the security and usability of 
+the proposed scheme, and show the resistance of the proposed scheme to shoulder surfing and accidental login. The shoulder
+surfing attack is an attack that can be performed by the adversary to obtain the user’s password by watching over the user’s
+shoulder as he enters his password. 
+
+Graphical Password to avoid shoulder surfing is a system in which a graphical password is used to authenticate the user and 
+provide a secure environment from shoulder surfing from people behind him. The system allows the user to not allow anyone to 
+see the password even though he is trying to watch the password when the user is trying to insert the password from behind 
+them integrated with security. This project has Graphical User Interface based interface that will help in inserting the 
+graphical password.
+ 
+Phase -1: Registration Phase: To register the user for setting the e-mail id, password and other details.
+Phase-2: Login Phase: To input the password in the dialog box with the help of graphical whee;.Every wheel have some colors and also contain
+                       some value. When user will click inner orbit or outer orbit then value present in the inner orbit and outer orbit
+                       will be added to the password box.That Password then will be checked by database.
+Phase-3: Testing Phase: To test the system over different constraint.
+
+
+
+Name of the Supervisor:                                                                     Project team(G-38):
+MS. AMRITA MAM                                                                              Sarthak Tyagi
+                                                                                            Mayank Tripathi
+                                                                                            Rajeev Raushan
