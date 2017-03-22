@@ -28,3 +28,6 @@ Name of the Supervisor:                                                         
 MS. AMRITA MAM                                                                              Sarthak Tyagi
                                                                                             Mayank Tripathi
                                                                                             Rajeev Raushan
+       Code link for other group members
+       sarthak tyagi-https://github.com/sarthaktyagi/graphicalpassword/tree/sarthaktyagi-patch-1
+       rajeev raushan-https://github.com/rajeevraushan/graphical-password-to-avoid-shoulder-surfing1
